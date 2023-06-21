@@ -1,0 +1,16 @@
+.DS_Store
+halo_data/
+harmoni_files/
+legac_files/
+sami_files/
+ski_files/
+skirt_files/
+skirt_out/
+scripts/extract_auriga.py
+scripts/fit_ifs.py
+scripts/fit_slit.py
+scripts/fit_utils.py
+scripts/glob_kinematics_ifs.py
+scripts/glob_kinematics_slit.py
+scripts/make_fit_harmoni.py 
+
